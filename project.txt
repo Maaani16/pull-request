@@ -1,5 +1,4 @@
 GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
-just added a newline to project
-
+Added a newline to improve the project formatting and clarity.
